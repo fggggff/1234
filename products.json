@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "👟 حذاء رياضي",
+    "description": "راحة وأناقة يومية",
+    "price": 120,
+    "image": "https://example.com/shoe1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "⌚ ساعة جلد فاخرة",
+    "description": "تصميم راقٍ وعملي",
+    "price": 250,
+    "image": "https://example.com/watch1.jpg"
+  },
+  {
+    "id": 3,
+    "name": "🌸 عطر فرنسي",
+    "description": "رائحة جذابة وثابتة",
+    "price": 180,
+    "image": "https://example.com/perfume.jpg"
+  },
+  {
+    "id": 4,
+    "name": "👜 حقيبة يد نسائية",
+    "description": "عملية وأنيقة",
+    "price": 199,
+    "image": "https://example.com/bag.jpg"
+  },
+  {
+    "id": 5,
+    "name": "👞 حذاء جلد رجالي كلاسيكي",
+    "description": "أناقة للمناسبات الرسمية وراحة يومية.",
+    "price": 270,
+    "image": "https://example.com/leather-shoe.jpg"
+  }
+]
